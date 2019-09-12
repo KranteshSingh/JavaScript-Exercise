@@ -1,4 +1,4 @@
-// Program to SWAP value of two Variables
+// Write a Program to SWAP value of two Variables
 let a = 'Red';
 let b = 'Blue';
 
