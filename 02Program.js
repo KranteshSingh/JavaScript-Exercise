@@ -1,5 +1,6 @@
-let a = "Red";
-let b = "Blue";
+// Program to SWAP value of two Variables
+let a = 'Red';
+let b = 'Blue';
 
 c = a;
 a = b;
