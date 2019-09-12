@@ -1,7 +1,7 @@
 // Write a program to find max of two numbers
 
 function findMax(firstNumber, secondNumber) {
-  if (firstNumber > secondNumber) return secondNumber;
+  return firstNumber > secondNumber ? firstNumber : secondNumber;
 }
 
 let result = findMax(4, 3);
