@@ -11,9 +11,8 @@ function move(array, index, offset) {
     return;
   }
 
-  const output = [...array];
-  // return the element that we just deleted
-  const element = output.splice(index, 1)[0];
-  output.splice(index + offset, 0, element);
+  const output = [...array]; // Copying the array in output
+  const element = output.splice(index, 1)[0]; // // return the element that we just deleted
+  output.splice(index + offset, 0, element); // Insering the element in the output array
   return output;
 }
