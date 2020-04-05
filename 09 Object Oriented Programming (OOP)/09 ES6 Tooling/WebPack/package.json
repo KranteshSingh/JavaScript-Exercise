@@ -20,7 +20,7 @@
   "name": "WebPack",
   "main": "webpack.config.js",
   "dependencies": {
-    "acorn": "^6.3.0",
+    "acorn": "^6.4.1",
     "ajv": "^6.10.2",
     "accepts": "^1.3.7",
     "ajv-keywords": "^3.4.1",
