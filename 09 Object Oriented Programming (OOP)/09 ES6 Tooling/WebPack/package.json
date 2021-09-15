@@ -439,7 +439,7 @@
     "serve-index": "^1.9.1",
     "set-blocking": "^2.0.0",
     "setimmediate": "^1.0.5",
-    "set-value": "^2.0.1",
+    "set-value": "^4.0.1",
     "sha.js": "^2.4.11",
     "setprototypeof": "^1.1.1",
     "shebang-command": "^1.2.0",
