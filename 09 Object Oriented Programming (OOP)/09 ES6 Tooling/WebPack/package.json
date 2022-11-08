@@ -278,7 +278,7 @@
     "lcid": "^2.0.0",
     "loader-runner": "^2.4.0",
     "locate-path": "^3.0.0",
-    "loader-utils": "^1.2.3",
+    "loader-utils": "^1.4.1",
     "lodash": "^4.17.15",
     "loose-envify": "^1.4.0",
     "lower-case": "^1.1.4",
